@@ -22,3 +22,6 @@ I'm a passionate web developer focused on building beautiful and functional web 
 - Email: max@example.com
 
 **Feel free to check out my repositories and connect with me!** 😊
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominikVatoo&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
